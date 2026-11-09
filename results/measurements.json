@@ -1,0 +1,30 @@
+{
+ "monitor_model": "Dell S2721HN",
+ "monitor_native_px": [
+  1920,
+  1080
+ ],
+ "monitor_diagonal_inch": 27,
+ "pixel_pitch_mm": 0.31132,
+ "board_square_px": 124,
+ "board_square_mm": 38.603,
+ "board_inner_corners": [
+  9,
+  6
+ ],
+ "box_dims_mm": [
+  235,
+  120,
+  110
+ ],
+ "box_distance_mm": 700,
+ "board_distance_image": "KakaoTalk_Photo_2026-11-09-14-12-13.jpeg",
+ "board_distance_mm": 500,
+ "camera_height_image": "KakaoTalk_Photo_2026-11-09-14-12-13.jpeg",
+ "camera_height_mm": 500,
+ "ref_height_mm": 1870,
+ "target_height_mm": 235,
+ "height_image": "b1.jpg",
+ "notes": "모니터 Dell S2721HN 27인치 1920x1080, 칸 124 px. 눈금자 1000 px 실측 약 311 mm (±1 mm, data/tape/ruler_1000px.jpg).",
+ "dataset_mode": "student"
+}
