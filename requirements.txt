@@ -1,0 +1,11 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+opencv-python>=4.8
+Pillow>=9.0
+jupyter
+ipykernel
+piexif          # 합성 데모 JPEG 의 EXIF 기록용 (선택)
+rawpy           # 보너스 (RAW) 에서만 (선택)
+ipympl          # 노트북 안 클릭 도구 (matplotlib widget 백엔드)
+pytest>=7       # 선택: 배포 라이브러리 회귀 테스트 실행용 (학생 TODO 구현과 무관)

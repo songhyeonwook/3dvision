@@ -1,0 +1,10 @@
+# 가상환경 · 캐시 (제출 · 공유 제외)
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# 데모 모드 결과 (제출 제외)
+results_demo/

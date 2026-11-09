@@ -1,0 +1,33 @@
+{
+ "note": "합성 데모의 실측값 (mm). 본인 데이터는 Part 0 노트북에서 직접 기록",
+ "monitor_model": "(합성)",
+ "monitor_native_px": [
+  2560,
+  1440
+ ],
+ "monitor_diagonal_inch": 27.0,
+ "pixel_pitch_mm": 0.2335,
+ "board_square_px": 107,
+ "board_square_mm": 25.0,
+ "board_inner_corners": [
+  9,
+  6
+ ],
+ "box_dims_mm": [
+  300.0,
+  200.0,
+  150.0
+ ],
+ "box_distance_mm": 903.0,
+ "box_distance_note": "카메라 렌즈 ~ 상자 중심",
+ "board_distance_image": "C_01.jpg",
+ "board_distance_mm": 503.6686736529533,
+ "board_distance_note": "카메라 렌즈 ~ 보드 중심",
+ "camera_height_image": "C_01.jpg",
+ "camera_height_mm": 449.95097354207763,
+ "camera_height_note": "보드 평면에서 카메라 렌즈까지의 수직 거리",
+ "ref_height_mm": 2000.0,
+ "target_height_mm": 1726.0,
+ "height_image": "b1.jpg",
+ "height_note": "기준 = 문 높이 2000 mm (b_ref · t_ref = 문 아래 · 위), 대상 = 빨간 막대 (줄자 실측값)"
+}
